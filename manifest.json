@@ -6,7 +6,8 @@
     "description": "Automatically detects Persian and English text direction.",
     
     "permissions": [
-        "activeTab"
+        "activeTab",
+        "scripting"
     ],
 
     "background": {
